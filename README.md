@@ -1,5 +1,4 @@
 # Case_study_Pima_Indian_Diabetes_Dataset
-Designed a plant disease diagnosis system using Gemini-Vision-Pro for extracting visual features and generating symptom descriptions from images. Integrated these insights with a multi-modal fusion model to compare symptom based and image-based classification methods, improving classification accuracy.
 
 ## Abstract
 The primary objective of this project is to evaluate the effectiveness of various classification models in predicting diabetes outcomes using the Pima Indian Diabetes dataset. By comparing performance metrics such as accuracy, precision, recall, and area under the ROC curve (AUC), the project provides a comprehensive assessment of different models. The analysis also identifies key variables impacting the outcome. A two-level ensemble approach, where a combination of Generalized Linear Model (GLM), Generalized Additive Model (GAM), Support Vector Machine (SVM), and Random Forest feeds into a Neural Network for final predictions, achieved the highest accuracy (99%) on the test dataset.
